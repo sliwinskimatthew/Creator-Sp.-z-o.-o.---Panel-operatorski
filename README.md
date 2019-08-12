@@ -1,0 +1,1 @@
+# Creator-Sp.-z-o.-o.---Panel-operatorski
