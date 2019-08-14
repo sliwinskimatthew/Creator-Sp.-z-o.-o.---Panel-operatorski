@@ -1,0 +1,15 @@
+OxyLevel01,Local HMI,LW,500,Represents current oxygen level in chamber [%],32-bit Float
+OxyLevel02,Local HMI,LW,510,Represents current oxygen level in prechamber [%],32-bit Float
+OxyLevel03,Local HMI,LW,520,Represents current oxygen level in room [%],32-bit Float
+OxyLevel01_mV,Local HMI,LW,502,Represents current oxygen level in chamber [mV],32-bit Float
+OxyLevel02_mV,Local HMI,LW,512,Represents current oxygen level in prechamber [mV],32-bit Float
+OxyLevel03_mV,Local HMI,LW,522,Represents current oxygen level in room [mV],32-bit Float
+OxyCoef01,Local HMI,LW,504,Represents oxygen sensor coefficient in chamber,32-bit Float
+OxyCoef02,Local HMI,LW,514,Represents oxygen sensor coefficient in prechamber,32-bit Float
+OxyCoef03,Local HMI,LW,524,Represents oxygen sensor coefficient in room,32-bit Float
+OxyLevelActual01,Local HMI,LW,506,Represents actual oxygen level in chamber [%],32-bit Float
+OxyLevelActual02,Local HMI,LW,516,Represents actual oxygen level in prechamber [%],32-bit Float
+OxyLevelActual03,Local HMI,LW,526,Represents actual oxygen level in room [%],32-bit Float
+OxyCoefBackup01,Local HMI,LW,508,Represents oxygen sensor coefficient in chamber - backup,32-bit Float
+OxyCoefBackup02,Local HMI,LW,518,Represents oxygen sensor coefficient in prechamber - backup,32-bit Float
+OxyCoefBackup03,Local HMI,LW,528,Represents oxygen sensor coefficient in room - backup,32-bit Float
